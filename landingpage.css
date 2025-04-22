@@ -1,0 +1,29 @@
+/*  */
+
+i {
+    
+    font-size:  100px;
+    color: beige;
+    background-color: rgb(246, 107, 107);
+    
+}
+
+  img{
+
+    width: 100%;
+  }
+
+  h1{
+    text-align: center;
+    font-family: "Big Shoulders Stencil", sans-serif;
+  }
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+ 
+    font-family: "Big Shoulders Stencil", sans-serif;
+}
