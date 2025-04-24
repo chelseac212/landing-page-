@@ -21,9 +21,34 @@ i {
 div {
     display: flex;
     justify-content: center;
+    
 }
 
 h2 {
  
     font-family: "Big Shoulders Stencil", sans-serif;
+}
+body {
+    background-color: rgb(245, 199, 245);
+}
+a {
+    color: rgb(198, 10, 110);
+    font-size: 30px;
+}
+
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+h6 {
+font-size: 20px;
 }
